@@ -5,7 +5,7 @@ background:rgb(252, 255, 249);
 #titulo1 {
  text-align: center;
  font-size:50px;
-  color:rgb(233, 9, 83);}
+  color:rgb(0, 255, 208);}
 
 
   p{
@@ -21,10 +21,29 @@ background:rgb(252, 255, 249);
  #titulo2{
     text-align:center;
     font-size:30px;
-    color:indigo
+    color:rgb(8, 241, 225)
+ }
+
+ .ul{
+   display: inline-block;
+   vertical-align: top;
+   width:20%;
+   margin-right: 15%;
+   font-size: 20px;
+
  }
 
 
+ #img2{
+ width:50%;
+
+ }
+
+ header{
+  text-align:center;
+  font-size: 50px;
+  color:aqua
+ }
 
 
 
