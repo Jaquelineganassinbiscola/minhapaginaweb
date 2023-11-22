@@ -5,11 +5,13 @@ background:rgb(252, 255, 249);
 #titulo1 {
  text-align: center;
  font-size:50px;
-  color:rgb(255, 0, 166);}
+  color:rgb(178, 18, 122), 0.548);}
 
 
   p{
-    text-align:
+    text-align:justify;
+    font: size 20px;
+    color:
   }
 
 
