@@ -42,11 +42,15 @@ background:rgb(252, 255, 249);
  header{
   text-align:center;
   font-size: 50px;
-  color:aqua
+  color:rgb(182, 21, 182);
+
  }
 
+ .principal{
+  background:black;}
 
-
+.beneficios{ 
+  background:black;}
 
 
 
